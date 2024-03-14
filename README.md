@@ -1,12 +1,54 @@
-<h1 align="center">Hi 👋, I'm keshav</h1>
-<h3 align="center">Enthusiastic full-stack developer, always learning, always building.</h3>
+<!-- Introduction -->
+<h1 align="center">Hello <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><br> I'm Keshav Mantry</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/keshav-mantry-613768229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/keshav-mantry-613768229/" height="30" width="40" /></a>
+<!-- Cool animation mentioning my techstack -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F75F5F&size=20&center=true&vCenter=true&lines=MERN-Stack+Developer;C%2B%2B+%7C+DS+%7C+Algorithm;Next.Js+%7C+Node.Js+%7C+MongoDB"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=keshavman1&show_icons=true&locale=en&layout=compact" alt="keshavman1" /></p>
+## About 😇
+- 👨‍🎓 I am a bachelor's student at Jaypee Institute Of Information Tech (JIIT).
+- :computer: I'm currently working on MERN Stack
+- :hourglass_flowing_sand:  Exploring Blockchain Development
+- :rocket: Always ready to collaborate for Dev Experiments
+- :dart: I want to travel & visit as many places as i can.
+
+
+<!-- divider -->
+&nbsp;
+
+<!-- skills showcase -->
+<h2>Technologies and Tools</h2>
+<p>
+<div>
+  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-sqaure&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?style=flat-sqaure" />
+  <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-sqaure&logo=tailwind-css&logoColor=white" />
+  <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-5C2D91?style=flat-square&logo=solidity&logoColor=white" />
+  <img alt="Hardhat" src="https://img.shields.io/badge/-Hardhat-ED8B00?style=flat-square&logo=hardhat&logoColor=white" />
+  <img alt="Hardhat" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-sqaure&logo=Ethereum&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-ea2845?style=flat-square&logo=react&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-YARN-CB3837?style=flat-square&logo=yarn&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?style=flat-square&logo=brave&logoColor=white" />
+  <img alt="MacOS" src="https://img.shields.io/badge/-Mac%20OS-000000?style=flat-square&logo=apple&logoColor=white" />
+  
+</div>
+</p>
+
+<!-- divider -->
+&nbsp;
+
+<!-- most used languages -->
+
+  
+ <h2 align="left">:heart: Let's get connected:</h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/namanagrwal/)](https://www.linkedin.com/in/keshav-mantry-613768229/) 
+[![Twitter Badge](https://img.shields.io/badge/-TWITTER-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Naman_Agrwl)](https://x.com/Keshav27808856?t=y1Ie5e6lFcimqAImeP72OQ&s=09)
