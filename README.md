@@ -28,7 +28,7 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Nodejs" src=" https://img.shields.io/badge/flutter-404D59?style=flat-sqaure" />
+  <img alt="flutter" src="https://img.shields.io/badge/flutter-404D59?style=flat-sqaure" />
     <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?style=flat-sqaure" />
    <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-sqaure&logo=tailwind-css&logoColor=white" />
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-5C2D91?style=flat-square&logo=solidity&logoColor=white" />
