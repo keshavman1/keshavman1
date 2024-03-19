@@ -24,11 +24,13 @@
 <div>
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-sqaure&logo=javascript&logoColor=black" />
   <img alt="React" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+   <img alt="Django" src="https://img.shields.io/badge/django.js-404D59?style=flat-sqaure" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?style=flat-sqaure" />
-  <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-sqaure&logo=tailwind-css&logoColor=white" />
+  <img alt="Nodejs" src=" https://img.shields.io/badge/flutter-404D59?style=flat-sqaure" />
+    <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?style=flat-sqaure" />
+   <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-sqaure&logo=tailwind-css&logoColor=white" />
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-5C2D91?style=flat-square&logo=solidity&logoColor=white" />
   <img alt="Hardhat" src="https://img.shields.io/badge/-Hardhat-ED8B00?style=flat-square&logo=hardhat&logoColor=white" />
   <img alt="Hardhat" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-sqaure&logo=Ethereum&logoColor=white" />
