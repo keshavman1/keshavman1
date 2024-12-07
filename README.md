@@ -12,7 +12,7 @@
 - :computer: I'm currently working on MERN Stack
 - :hourglass_flowing_sand:  Exploring Blockchain Development
 - :rocket: Always ready to collaborate for Dev Experiments
-- :dart: I want to travel & visit as many places as i can.
+
 
 
 <!-- divider -->
@@ -33,13 +33,11 @@
    <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-sqaure&logo=tailwind-css&logoColor=white" />
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-5C2D91?style=flat-square&logo=solidity&logoColor=white" />
   <img alt="Hardhat" src="https://img.shields.io/badge/-Hardhat-ED8B00?style=flat-square&logo=hardhat&logoColor=white" />
-  <img alt="Hardhat" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-sqaure&logo=Ethereum&logoColor=white" />
+
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-ea2845?style=flat-square&logo=react&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-YARN-CB3837?style=flat-square&logo=yarn&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="MacOS" src="https://img.shields.io/badge/-Mac%20OS-000000?style=flat-square&logo=apple&logoColor=white" />
+
   
 </div>
 </p>
