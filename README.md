@@ -133,8 +133,8 @@ An online educational platform for university assessments and automated evaluati
 - Tested with **500+ students**, achieving approximately **82% accuracy**.
 - Optimized Node.js modules and reduced application load times by **6%**.
 
-🔗 **[Live Demo](YOUR_LIVE_DEMO_LINK)**  
-🔗 **[GitHub Repository](YOUR_COGNISCRIPT_REPO_LINK)**
+🔗 [**Live Demo**](https://smartquizwebapp.onrender.com/)  
+🔗 [**GitHub Repository**](https://github.com/keshavman1/CogniScript)
 
 ---
 
@@ -149,7 +149,7 @@ A Splitwise-style expense-sharing application developed during **Smart India Hac
 - Added settlement history and audit trails with timestamp-based tracking.
 - Implemented **JWT-based authentication and authorization**.
 
-🔗 **[GitHub Repository](YOUR_SPLITWISE_REPO_LINK)**
+🔗 [**GitHub Repository**](https://github.com/keshavman1/Splitwise-backend)
 
 ---
 
