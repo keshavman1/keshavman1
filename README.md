@@ -27,19 +27,19 @@ in backend development, API optimization, Redis caching, Docker, and CI/CD.
 Previously worked as a **Software Engineering Intern at Zycus**, developing
 Java Spring Boot microservices and contributing to enterprise procurement systems.
 
-- 💼 Digital Specialist Engineer at **Infosys**
-- ⚙️ Focused on **Backend Engineering & Microservices**
-- ☕ Working with **Java & Spring Boot**
-- 🟢 Experienced with **Node.js & Express.js**
-- 🚀 Interested in **Scalable Systems & System Design**
-- 🗄️ Working with **MongoDB, SQL & Redis**
-- ☁️ Experience with **AWS, Azure, Docker & CI/CD**
-- 🧠 Strong interest in **DSA & Problem Solving**
-- 🤖 Exploring **AI-powered applications**
+- Digital Specialist Engineer at **Infosys**
+- Focused on **Backend Engineering & Microservices**
+- Working with **Java & Spring Boot**
+- Experienced with **Node.js & Express.js**
+- Interested in **Scalable Systems & System Design**
+- Working with **MongoDB, SQL & Redis**
+- Experience with **AWS, Azure, Docker & CI/CD**
+- Strong interest in **DSA & Problem Solving**
+- Exploring **AI-powered applications**
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 ### 💻 Languages
 
@@ -119,9 +119,9 @@ Java Spring Boot microservices and contributing to enterprise procurement system
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-## 🧠 CogniScript
+## CogniScript
 
 **MongoDB • Express.js • React.js • Node.js • OpenAI API**
 
@@ -138,7 +138,7 @@ An online educational platform for university assessments and automated evaluati
 
 ---
 
-## 💸 Splitwise
+## Splitwise
 
 **Java • Spring Boot • REST APIs • TypeScript • MongoDB**
 
@@ -177,11 +177,11 @@ A Splitwise-style expense-sharing application developed during **Smart India Hac
 
 <p align="center">
 
-<a href="YOUR_LEETCODE_PROFILE">
+<a href="https://leetcode.com/u/kshv01/">
   <img src="https://img.shields.io/badge/LeetCode-1800%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
-<a href="YOUR_CODECHEF_PROFILE">
+<a href="https://www.codechef.com/users/kshv_01">
   <img src="https://img.shields.io/badge/CodeChef-3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 
